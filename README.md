@@ -1,1 +1,2 @@
 # wep
+# project notes
